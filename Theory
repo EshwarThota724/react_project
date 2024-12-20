@@ -1,0 +1,29 @@
+1. What is Emmet?
+
+A.Emmet is a free plugin for text editors that enables rapid coding by expanding abbreviations into full HTML, CSS, and other code formats. Although not pre-installed in VS Code by default, Emmet is available as an extension.
+
+2. Difference between a library and framework?
+
+A.A library is a collection of reusable functions and methods that can be used as needed in a project. A framework, on the other hand, is a structured collection of functions with predefined rules that guide project organization. Unlike libraries, frameworks cannot be seamlessly integrated into existing projects.
+
+3. What is CDN? Why do we use it?
+
+A.A Content Delivery Network (CDN) is a network of interconnected servers that accelerates webpage loading for data-intensive applications. CDNs reduce latency by caching content at multiple locations worldwide, ensuring faster data retrieval. 
+Example: <script src='(link unavailable)'></script>
+
+4. Why is React known as React?
+
+A.React efficiently responds to data changes and dynamically updates the user interface, earning its name due to its reactive nature.
+
+5. What is cross-origin in the script tag?
+
+A.The cross-origin attribute in the script tag handles external script requests, enabling browsers to execute scripts from different origins while ensuring security.
+Example: <script crossorigin src='(link unavailable)'></script>
+
+6. What is the difference between React and React DOM?
+
+A.React is the core library for creating UI components and managing their behavior. React DOM, on the other hand, is a library that renders React components in the DOM of web pages.
+
+7. What is the difference between React development JS and React production JS files via CDN?
+
+A.React development JS files are used for development purposes, providing features like debugging and hot reloading. React production JS files, served via CDN, are optimized for production environments, offering better performance and faster page loading.
